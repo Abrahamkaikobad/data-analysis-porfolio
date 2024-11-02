@@ -8,11 +8,10 @@ In my spare time, I enjoy exploring new data analysis tools and techniques. I am
 This repository showcases my skills, projects, and progress in Data Analytics and Data Science.
 
 ## Table of Contents
-- About
-- Portfolio Projects
-- Education
-- Certificates
-- Contact
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - [Project 1: eCommerce Customer Behavior Analysis](#project-1-ecommerce-customer-behavior-analysis)
+  - [Project 2: Global Superstore Data Analysis](#project-2-global-superstore-data-analysis)
 
 ## Portfolio Projects
 
@@ -47,3 +46,5 @@ This repository showcases my skills, projects, and progress in Data Analytics an
 3. **Discount Impact**: Investigation into the effects of discounts on profitability and sales volume.
 4. **Shipping & Order Priorities**: Analysis of how shipping costs and order priorities affect delivery time and customer satisfaction.
 5. **Profitability Drivers**: Identification of key factors contributing to high-profit margins.
+
+
