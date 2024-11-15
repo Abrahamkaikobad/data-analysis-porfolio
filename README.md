@@ -14,6 +14,7 @@ This repository showcases my skills, projects, and progress in Data Analytics an
   - [Project 2: Digital Wallet Transaction Analysis](#project-2-digital-wallet-transaction-analysis)
   - [Project 3: Global Superstore Data Analysis](#project-3-global-superstore-data-analysis)
   - [Project 4: Identifying Hate Speech on Online Platforms in Bangladesh](#project-4-identifying-hate-speech-on-online-platforms-in-bangladesh)
+- [Certifications](#certifications)
 
 ## Portfolio Projects
 
@@ -38,7 +39,7 @@ This repository showcases my skills, projects, and progress in Data Analytics an
 
 **Code**: [Digital Wallet Transaction Analysis](https://github.com/Abrahamkaikobad/digital-wallet)
 
-**Overview**: The dataset contains 5000 synthetic records of digital wallet transactions, including various financial details such as `product_category`, `product_amount`, `cashback`, `loyalty_points`, and `payment_method`. This analysis provides insights into customer spending, transaction trends, and potential areas for business optimization.
+**Overview**: The dataset contains 5000 synthetic records of digital wallet transactions, including various financial details such as product_category, product_amount, cashback, loyalty_points, and payment_method. This analysis provides insights into customer spending, transaction trends, and potential areas for business optimization.
 
 **Technology**: Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI
 
@@ -54,7 +55,7 @@ This repository showcases my skills, projects, and progress in Data Analytics an
 
 **Code**: [Global Superstore Data Analysis](https://github.com/Abrahamkaikobad/sales-analysis)
 
-**Overview**: The dataset consists of 51,290 entries with 24 features, providing detailed information on customer orders, including `Order ID`, `Customer Name`, `Segment`, `City`, `State`, `Sales`, `Profit`, `Quantity`, and `Discount`. The dataset is clean and ready for analysis, with the aim of identifying purchasing patterns, key revenue drivers, and factors influencing profit margins.
+**Overview**: The dataset consists of 51,290 entries with 24 features, providing detailed information on customer orders, including Order ID, Customer Name, Segment, City, State, Sales, Profit, Quantity, and Discount. The dataset is clean and ready for analysis, with the aim of identifying purchasing patterns, key revenue drivers, and factors influencing profit margins.
 
 **Technology**: Python (Pandas, Matplotlib, Seaborn), MS Excel, Power BI
 
@@ -70,7 +71,7 @@ This repository showcases my skills, projects, and progress in Data Analytics an
 
 **Code**: [Identifying Hate Speech on Online Platforms](https://github.com/Abrahamkaikobad/Identifying-Hate-Speech-on-Online-Platform-in-Bangladesh-Using-Machine-Learning/tree/master)
 
-**Overview**: This project involved analyzing a dataset of 12,131 entries with three main features: `bangla`, `banglish`, and `label`. The objective was to preprocess the text, vectorize it using TF-IDF, and build classification models to detect various types of hate speech.
+**Overview**: This project involved analyzing a dataset of 12,131 entries with three main features: bangla, banglish, and label. The objective was to preprocess the text, vectorize it using TF-IDF, and build classification models to detect various types of hate speech.
 
 **Technology**: Python (Pandas, NumPy, Scikit-learn, NLTK), Machine Learning (SVM, Random Forest, MLP, Decision Tree), Data Preprocessing (TF-IDF Vectorization, Stopwords Removal), Pickle, Joblib
 
@@ -87,3 +88,12 @@ This repository showcases my skills, projects, and progress in Data Analytics an
 **Future Enhancements**:
 - Integration of deep learning techniques such as LSTM and BERT for more robust text classification.
 - Addition of more complex linguistic features for better model generalization.
+
+## Certifications
+
+1. **Certificate: Data Analyst (1st Data Innovators Challenge)**  
+![Data Analyst Certificate](https://github.com/Abrahamkaikobad/data-analysis-porfolio/blob/none/Data%20Analyst_Ai%20Expert.png)
+
+2. **Certificate: Data Science (Stanford)**  
+[Download Certificate (PDF)](https://github.com/Abrahamkaikobad/data-analysis-porfolio/blob/none/Data%20Science_Stanford.pdf)
+
